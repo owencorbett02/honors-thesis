@@ -1,3 +1,1 @@
-# Creating the Repo
-
-Learning how to use github
+This is a repo for Owen Corbett's honor's thesis.
